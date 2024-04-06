@@ -1,0 +1,15 @@
+Directory: dir1
+  -dir4
+  -  -7.txt
+  -  -file8.txt
+  -  -dir5
+  -  -  -file13.txt
+  -  -  -file11.txt
+  -  -file
+  -file2.txt
+  -file1.txt
+
+Directory: dir2
+  -21.txt
+  -file
+
